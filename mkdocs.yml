@@ -1,0 +1,9 @@
+site_name: "Catatan Saya"
+theme:
+  name: "material"
+nav:
+  - Beranda: index.md
+  - Catatan 1: Landing page design.md
+  - Catatan 2: Tes vault.md
+plugins:
+  - search
